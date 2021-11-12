@@ -1,7 +1,7 @@
 # HOW TO RUN THE ANALYSIS ON DATA PROVIDED
 1. Run the runCluster file to create the graphs, tables and statistics for the tweets.json file. 
 
-# HOW TO TO RUN THE CRAWLER TO COLLECT NEW DATA
+# HOW TO RUN THE CRAWLER TO COLLECT NEW DATA
 1. Place your Twitter API credentials in the createCreds.py script.
 2. Run the createCreds.py script, and it will create the credentials file for Twitter API use.
 
